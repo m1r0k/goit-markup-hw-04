@@ -422,6 +422,7 @@ li {
 
 .page-footer-container {
     display: flex;
+    align-items: baseline;
 }
 
 .footer-logo-container {
